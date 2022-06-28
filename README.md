@@ -28,7 +28,7 @@ FIXED comparing to CLAY-BIOS:
 
 *(4)The function issue about cant wake up after closing the lid for a while(when it went into sleeping status)
 
-IN ORDER TO MAKE THIS FUNCTION WORK; Please CHECK your bios settings and please make sure its exactly the same，you can find my configuration in the /BIOS-CONF File (configuration files are from https://github.com/exxncss/x250-hackintosh)
+IN ORDER TO MAKE THIS FUNCTION WORK; Please CHECK your bios settings and please make sure its exactly the same，you can find my configuration in the /BIOS-CONF File (bios_configuration pics are from https://github.com/exxncss/x250-hackintosh)
 
 #How to install:
 1:mount your EFI(ESP) partition
