@@ -13,6 +13,7 @@ audio speaker/mic
 etc
 
 FIXED comparing to CLAY-BIOS:
+
 *(1)Fixed Bluetooth Switches:
 
 ![image](https://user-images.githubusercontent.com/100339054/176080062-664111a0-0a2a-49a0-97e6-54e3fa1d5ca7.png)
